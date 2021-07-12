@@ -1,0 +1,28 @@
+uses
+
+################PREMISSIONS ON SUING THIS SCRIPT#########
+#
+#permissions:
+#  - commercial-use
+#  - distribution
+#  - modifications
+#  - patent-use
+#  - private-use
+#
+#conditions:
+#  - disclose-source
+#  - include-copyright
+#  - same-license
+#
+#limitations:
+#  - liability
+#  - warranty
+
+
+###########
+#YOU HAVE ALL RIGHT TO CHANGE AND EDIT THIS SCRIPT #
+#BUT DO NOT HAVE ANY RIGHT TO ABUSE/USE/ACTIVATE THIS SCRIPT #
+#FOR ILLEGAL ISSUES AND ANYONE WHO IS CAUGHT AND OR ARRESTED #
+#IS HELD COMPLETELY LIABLE FOR ANY AND ALL ACTIONS UPON USING#
+#MY CYBER WEAPONS, SCRIPTS, TOOLS, AND BOTS TO YOUR ADVANTAGE#
+
